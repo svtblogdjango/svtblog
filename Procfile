@@ -1,0 +1,1 @@
+web: gunicorn SVT_BLOG.wsgi
